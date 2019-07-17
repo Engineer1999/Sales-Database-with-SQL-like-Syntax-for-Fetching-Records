@@ -1,0 +1,19 @@
+     Welcome To Our Chinese Dish
+Index
+
+Id   Food Name  Price in
+                   Rs
+
+07. NOODLES       ->60                                                    
+08. MANCHURIAN   ->65                                                
+09. SOUP         ->40
+
+Some Information Please Read carefully Before Give A Order
+ 
+*Enter 07 for Noodles and then enter a quntity of that 
+*Like that another thing you can order
+
+
+Like example:
+enter ID for your order:07
+enter quintity:2 or 3 or 4 whatever you should

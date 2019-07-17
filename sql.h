@@ -1,0 +1,14 @@
+void onlyfrom();
+void from_with_dot();
+void FROM1();
+void trans1();
+void trans();
+void product1();
+void order1();
+void orderdetail1();
+void customer1();
+void trans_dot();
+void product_dot();
+void order_dot();
+void orderdetail_dot();
+void customer_dot();

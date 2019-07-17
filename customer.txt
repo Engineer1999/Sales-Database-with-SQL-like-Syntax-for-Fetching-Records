@@ -1,0 +1,12 @@
+        custID |    First_Name |     Last_Name |        Gender |           DOB |           Pin |         Phone |          Area |          City |
+
+            1. |       vaishwi |         patel |             f |    1111/12/12 |          1234 |    1478523690 |        naroda |     ahmedabad |
+            3. |         arpit |         patel |             m |    2000/ 1/15 |          2345 |   -1705335826 |  krishnanagar |     ahmedabad |
+            4. |       bhargav |         patel |             m |    2000/10/12 |          2345 |    1284628618 |     shivkrupa |         surat |
+            5. |       shivani |         patel |             f |    2000/11/13 |          4567 |    1042652818 |    navanaroda |         surat |
+            6. |        shreya |         patel |             f |    1999/ 1/10 |        234567 |     922430188 |    payalnagar |     ahmedabad |
+            7. |         hetvi |        parmar |             f |    2000/12/12 |        382330 |    1136720616 |        naroda |      vadodara |
+            8. |          tanu |          shah |             f |    1999/10/ 1 |        382330 |     491476797 |         harni |      vadodara |
+            9. |         janvi |        rathod |             f |    1999/12/23 |        345678 |    1262426878 |  shubhashpura |     ahmedabad |
+           10. |          kush |         kumar |             m |    1998/10/15 |        382325 |    1136720436 |   bhavanipura |      jamnagar |
+           11. |      praharsh |         sheth |             m |    2010/11/12 |        382356 |    1262432818 |      satalite |     ahmedabad |

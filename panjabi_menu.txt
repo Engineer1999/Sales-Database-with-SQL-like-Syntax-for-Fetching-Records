@@ -1,0 +1,20 @@
+    Welcome Our Panjabi Dish
+
+Index
+
+ID    Food Name   Price in
+                     Rs
+
+04.  ALOO-PARATHA  ->50                                        
+05.  TANDOORI     ->25                                                    
+06.  LACHHI       ->25
+
+=>Some Information Please Read carefully Before Give A Order
+ 
+*Enter 04 for Allo Paratha and then enter a quntity of that 
+*Like that another thing you can order
+
+
+Like example:
+enter ID for your order:04
+enter quintity:2 or 3 or 4 whatever you should

@@ -1,0 +1,11 @@
+        ProdID |      ProdName |     price(Rs) |           UOM |
+
+            01 |    FIXED DISH |           200 |             1 |
+            02 |      DAL-RICE |            60 |             1 |
+            03 |         PAPAD |            30 |             1 |
+            04 |  ALOO-PARATHA |            50 |             1 |
+            05 |      TANDOORI |            25 |             1 |
+            06 |        LACHHI |            25 |             1 |
+            07 |       NOODLES |            60 |             1 |
+            10 |    MANCHURIAN |            65 |             1 |
+            11 |          SOUP |             40 |             1 |

@@ -1,0 +1,21 @@
+          Welcome to our Gujarati Food
+
+Index
+
+ID   name of the    price in
+       food            Rs
+
+01.  FIXED DISH     ->200                                                 
+02.  DAL-RISE       ->60                                                   
+03.  PAPAD          ->30                                                        
+
+
+=>Some Information Please Read carefully Before Give A Order
+ 
+*Enter 01 for fixed dish and then enter a quntity of that 
+*Like that another thing you can order
+
+
+Like example:
+enter ID for your order:01
+enter quintity:2 or 3 or 4 whatever you should

@@ -1,0 +1,2 @@
+# Sales-Database-with-SQL-like-Syntax-for-Fetching-Records
+I have created an application that would allow the user to create a sales database and use SQL (Structured Query Language) like commands to fetch records from the database. Provide appropriate menu that will allow the user to create or use a database by specifying the database name (here the database name can be used to refer to a folder in which the files are stored).
